@@ -34,6 +34,8 @@ As we can see on the graph, the maximum amount of trips are on the month of Sept
 
 ### Chart that displays Trips Every Hour:
 
+Here, we only focused on the hours columns, as we did on the first table:
+
 ![tripsbyhour](https://user-images.githubusercontent.com/118494394/234021605-468f02ba-aaea-4f46-b839-8a0a4b001299.png)
 
 Result:
@@ -42,7 +44,11 @@ Result:
 
 Analysis:
 
+Again, the range 15 to 20 are the hours in which we have the highest rate of trips.
+
 ### Plot data by trips taken during every day of the month:
+
+Similar to the previous graph, but instead focusing on every day of the month:
 
 ![trips day](https://user-images.githubusercontent.com/118494394/234022188-f854b1c2-a942-41a0-89d7-452980be6885.png)
 
@@ -52,6 +58,8 @@ Table that shows Trips Every Day:
 
 ### Chart by Trips by Day and Month:
 
+For this chart, we combined both the day and the month columns. As a result we got the following table: 
+
 ![month day](https://user-images.githubusercontent.com/118494394/234021971-db4ff979-f71d-447d-9476-99a0029b0ce1.png)
 
 Result:
@@ -59,6 +67,8 @@ Result:
 ![monthday](https://user-images.githubusercontent.com/118494394/234022312-4b9c0bb7-8797-4f82-89fb-cdf14aff3e07.png)
 
 ### Chart Trips by Bases and Month:
+
+Finally, for this graph we used the same group_by function to display the base and month columns as shown below:
 
 ![monthbase](https://user-images.githubusercontent.com/118494394/234022003-3d88444e-8c9d-4e7d-8ccb-5049a9989ccc.png)
 
