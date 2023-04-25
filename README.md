@@ -22,6 +22,10 @@ Pivot table:
 
 Similarly to the first table, we used group_by function to add the month column.
 
+![Screenshot (1)](https://user-images.githubusercontent.com/118494394/234149354-4d8bf672-6ecc-4269-b477-5ed67dd70be5.png)
+
+The resulted data frame:
+
 ![tripbyhourandmonth](https://user-images.githubusercontent.com/118494394/234021278-6c33160d-7a37-48a4-bf49-d7e78605084b.png)
 
 Result:
