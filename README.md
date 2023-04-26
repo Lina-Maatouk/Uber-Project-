@@ -115,9 +115,11 @@ Result:
 ![heat4](https://user-images.githubusercontent.com/118494394/234023278-9588242a-125a-44ab-a526-3876ab0542d5.png)
 
 
-# Leaflet Shiny Geospatial Map:
+# Shiny Apps:
 
-insert link
+The following shiny app is an interactive tool that lets users explore different tabs, each containing charts with data analysis and a geospatial map. 
+
+https://linamaatouk.shinyapps.io/UberProject/
 
 # Author
 
