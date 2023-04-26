@@ -115,6 +115,14 @@ Result:
 ![heat4](https://user-images.githubusercontent.com/118494394/234023278-9588242a-125a-44ab-a526-3876ab0542d5.png)
 
 
+## Geospatial Map: 
+
+In order to create a geospatial map, we proceeded to use leaflet library. Since the data set was too large, we had to create a sub data frame focusing on one area.
+Here is what the code looks like:
+
+![geospatial](https://user-images.githubusercontent.com/118494394/234440810-7133e30b-c4ca-4ced-8440-2ae046306148.png)
+
+
 # Shiny Apps:
 
 The following shiny app is an interactive tool that lets users explore different tabs, each containing charts with data analysis and a geospatial map. 
